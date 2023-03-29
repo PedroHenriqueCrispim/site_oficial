@@ -1,0 +1,52 @@
+html{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hwb(0 92% 6%);
+}  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color:#070707(249, 245, 245);
+    text-align: center;
+
+  }
+  
+  body {
+    width: 900px;
+    margin: 0 auto;
+    background-color: rgb(215, 14, 14);
+    padding: 0 50px 20px 20px;
+    border: 1px solid black;
+  }
+  
+  h1 {
+    margin: 100;
+    padding: 20px 0;
+    color: #070707;
+    text-shadow: 3px 3px 1px rgb(238, 233, 233);
+    text-align: center;
+  }
+  
+ .p1 {
+    text-align:start
+  }
+
+ h3{
+    text-align: center;
+ }
+
+
+
+  img { 
+    margin: 0 auto;
+    width: 500px;
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+  }
